@@ -1,0 +1,36 @@
+.search-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-container input {
+  max-height: 50%;
+}
+
+ul {
+  padding: 0;
+}
+
+.search-container li {
+  list-style: none;
+}
+
+.languages {
+  padding-left: 40px;
+}
+
+.languages li {
+  list-style: disc;
+}
+
+img {
+  margin-top: 25px;
+  border: 1px solid #ddd;
+  max-width: 150px;
+}
+
+.weather-img {
+  border: none;
+  margin: 0;
+}
